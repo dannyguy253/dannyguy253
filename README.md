@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Lam</h1>
 <h3 align="center">Graduate Student in Applied Mathematics</h3>
 
-- 🔭 I’m currently working on **building up my GitHub profile with data science projects.**
+- 🔭 I’m currently working on **building up my GitHub profile with data analysis and data science projects.**
 
 - 🌱 I’m currently learning **the basics of machine learning, data analysis, and data science using Python and R.**
 
