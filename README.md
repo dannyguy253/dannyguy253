@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Lam</h1>
 <h3 align="center">Data Analyst</h3>
 
-- 🔭 I’m currently working on **building up my GitHub profile with data analysis projects.**
+- 🔭 I’m currently working on **building up my GitHub profile with data analysis portfolios.**
 
 - 🌱 I’m currently learning **the basics of data analytics using SQL, Excel, Python and Tableau.**
 
